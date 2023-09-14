@@ -19,6 +19,6 @@ https://github.com/raphaelbastide/Unified-Font-Repository
 
 ## Specimen
 
-![specimen1](documentation/1.specimen.jpg)
+![specimen1](documentation/2.specimen.formations.jpg)
 ![specimen1](documentation/4.specimen.inventaire.jpg)
 
