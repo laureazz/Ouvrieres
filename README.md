@@ -17,8 +17,4 @@ a standard way to organize font project source files. Learn more at
 https://github.com/raphaelbastide/Unified-Font-Repository
 
 
-## Specimen
-
-![specimen1](documentation/2.specimen.formations.jpg)
-![specimen1](documentation/4.specimen.inventaire.jpg)
 
